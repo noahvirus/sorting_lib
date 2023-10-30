@@ -1,0 +1,15 @@
+in all of these, the sorting methods are defined as a function taking in an array or a pointer to the start of an array and a len
+
+Languages using example_sort(array)
+python
+
+Languages using example_sort(pointer to start, length of array)
+c++
+
+
+The Following sorting methods are implemented and can all be called in the forms above
+
+Bubble sort: bubble_sort(array) or bubble_sort(pointer to start, length of array)
+Insertion sort: insertion_sort(array) or insertion_sort(pointer to start, length of array)
+Merge sort: merge_sort(array) or merge_sort(pointer to start, length of array)
+Quick sort: quick_sort(array) or quick_sort(pointer to start, length of array)
